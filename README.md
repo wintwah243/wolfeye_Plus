@@ -18,7 +18,7 @@ WolfEye+ ensures that only authorized individuals are identified and that all pe
 - **Web-Based Dashboard** — Displays live detection results and system alerts.  
 - **Point System** — Employees wearing required PPE items are awarded compliance points
 - **Backend Integration** — Communicates with Python(Fastapi) backend for model inference and data handling.  
-- **Attendance and PPE violations Dashboard** — Monitors attendance status and PPE adherence with real-time detection metrics.
+- **Attendance and PPE violations Dashboard** — Monitors attendance status and PPE adherence with real-time detection metrics[Daily, Weekly, Monthly].
 
 ---
 
