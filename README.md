@@ -53,9 +53,9 @@ You can view our full UI/UX prototype here:
 
 | Name | Role | Contribution |
 |------|------|---------------|
-| **Wint Wah** | Member | Frontend + Backend integration and Frontend Development |
+| **Wint Wah Kyaw Soe** | Member | Frontend + Backend integration and Frontend Development |
 | **Yoon Thiri Aung** | Member | AI model development + Backend Development |
-| **Soe Sett Lynn** | Member | Designed the WolfEye+ interface on Figma |
+| **Soe Sett Lynn** | Member | UI Design + Business Login + Presentation |
 
 ---
 
