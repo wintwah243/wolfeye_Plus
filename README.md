@@ -14,7 +14,7 @@ WolfEye+ ensures that only authorized individuals are identified and that all pe
 ## Key Features
 
 - **Face Recognition** — Accurately identifies registered individuals using camera input.  
-- **PPE Detection** — Detects safety gear such as helmets, googles, and vests in real time.  
+- **PPE Detection** — Detects safety gear such as helmets, googles, ear protections, gloves and vests in real time.  
 - **Web-Based Dashboard** — Displays live detection results and system alerts.  
 - **Point System** — Employees wearing required PPE items are awarded compliance points
 - **Backend Integration** — Communicates with Python(Fastapi) backend for model inference and data handling.  
