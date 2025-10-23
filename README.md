@@ -55,7 +55,7 @@ You can view our full UI/UX prototype here:
 |------|------|---------------|
 | **Wint Wah Kyaw Soe** | Member | Frontend + Backend integration and Frontend Development |
 | **Yoon Thiri Aung** | Member | AI model development + Backend Development |
-| **Soe Sett Lynn** | Member | UI Design + Business Login + Presentation |
+| **Soe Sett Lynn** | Member | UI Design + Business Logic + Presentation |
 
 ---
 
